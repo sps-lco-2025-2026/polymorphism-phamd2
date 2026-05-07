@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="PolymorphismExample.App/PolymorphismExample.App.csproj" />
-  <Project Path="PolymorphismExample.Lib/PolymorphismExample.Lib.csproj" />
-</Solution>
